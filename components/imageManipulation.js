@@ -4,10 +4,10 @@ import {getImageMetadataFromDataURL} from "./upload";
 
 export const SPACER_HEIGHT = 16;
 export const SPACER_BANNER_HEIGHT = 26;
-export const CHANNEL_HEIGHT = 22;
+export const CHANNEL_HEIGHT = 28;
 export const CHANNEL_BANNER_HEIGHT = 30;
 export const CHANNEL_BANNER_WIDTH = 500;
-export const CHANNEL_DEPTH_OFFSET = 11;
+export const CHANNEL_DEPTH_OFFSET = 14;
 
 export const defaultRoom = {depth: 0, spacer: false};
 
